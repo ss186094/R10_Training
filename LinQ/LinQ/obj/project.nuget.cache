@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MYy0CWY2iQEvsu/N+GHOZQ5yA9R2Ej2112xNvpvyazALQMW2r9+GFYXnhN9GAyzIwsomCuLQSmt9Fj2kmyMtRQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ss186094\\OneDrive - NCR Corporation\\Documents\\R10 Exercise\\LinQ\\LinQ\\LinQ.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ss186094\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

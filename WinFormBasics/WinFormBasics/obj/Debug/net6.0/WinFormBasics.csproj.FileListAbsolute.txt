@@ -1,0 +1,6 @@
+C:\Users\ss186094\OneDrive - NCR Corporation\Documents\R10 Exercise\WinFormBasics\WinFormBasics\obj\Debug\net6.0\WinFormBasics.csproj.AssemblyReference.cache
+C:\Users\ss186094\OneDrive - NCR Corporation\Documents\R10 Exercise\WinFormBasics\WinFormBasics\obj\Debug\net6.0\WinFormBasics.csproj.ResolveComReference.cache
+C:\Users\ss186094\OneDrive - NCR Corporation\Documents\R10 Exercise\WinFormBasics\WinFormBasics\obj\Debug\net6.0\WinFormBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ss186094\OneDrive - NCR Corporation\Documents\R10 Exercise\WinFormBasics\WinFormBasics\obj\Debug\net6.0\WinFormBasics.AssemblyInfoInputs.cache
+C:\Users\ss186094\OneDrive - NCR Corporation\Documents\R10 Exercise\WinFormBasics\WinFormBasics\obj\Debug\net6.0\WinFormBasics.AssemblyInfo.cs
+C:\Users\ss186094\OneDrive - NCR Corporation\Documents\R10 Exercise\WinFormBasics\WinFormBasics\obj\Debug\net6.0\WinFormBasics.csproj.CoreCompileInputs.cache

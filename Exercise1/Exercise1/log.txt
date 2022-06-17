@@ -1,0 +1,4 @@
+2022-05-25 14:25:30,577 [1] ERROR Task [(null)] - System.FormatException: Input string was not in a correct format.
+   at System.Number.ThrowOverflowOrFormatException(ParsingStatus status, TypeCode type)
+   at System.Int32.Parse(String s)
+   at Program.Main() in C:\Users\ss186094\OneDrive - NCR Corporation\Documents\R10 Exercise\R10_Training\Exercise1\Exercise1\Program.cs:line 28
